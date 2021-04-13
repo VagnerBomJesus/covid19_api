@@ -3,6 +3,10 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
 </p>
 
+<p align="center">
+  <img alt="#" src="https://user-images.githubusercontent.com/48354097/114622452-e1659580-9ca5-11eb-98da-8198f0f29531.png" width="100%">
+</p>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
